@@ -9,7 +9,7 @@ I'm a passionate software developer and computer science student with experience
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![ARM Assembly](https://img.shields.io/badge/Assembly-525252?style=flat-square&logo=assemblyscript&logoColor=white) ![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat-square&logo=apache-groovy&logoColor=white)
 
 ### Frameworks & Libraries
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![SDL3](https://img.shields.io/badge/SDL3-1C4532?style=flat-square&logo=simple-directmedia-layer&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![SDL3](https://img.shields.io/badge/SDL3-1C4532?style=flat-square&logo=simple-directmedia-layer&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 
 ### Databases & Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
@@ -19,19 +19,20 @@ I'm a passionate software developer and computer science student with experience
 
 ## 🚀 Featured Projects
 
+### 🏠 [RentMate - Full Stack Rental Platform](https://github.com/Cecil-B-Liv/RentMate)
+
+A comprehensive rental management platform built with Spring Boot (Group Project from RMIT course)
+- **Backend**: Spring Boot, RESTful APIs, JPA/Hibernate
+- **Frontend**: React, Tailwind
+- **Database**: Supabase
+- **Features**: Manage rental information like renting lease, payment, details between landlord and users.
+
 ### 🎮 [CHIP-8 Emulator](https://github.com/Cecil-B-Liv/Chip8-Simulator)
 A fully functional CHIP-8 emulator built in C using SDL3
 - Implements complete CHIP-8 instruction set
 - 60Hz timer system for accurate game timing
 - Audio support with beep functionality
 - Cross-platform compatibility
-
-### 🏦 [Time Bank Application](https://github.com/Cecil-B-Liv/SED-Project)
-A C++ console application for managing time-based service exchanges
-- User authentication system with admin controls
-- Booking and rating system between hosts and supporters
-- Complete project management workflow
-- Team collaboration project (Group 6)
 
 ### 🌐 [Full Stack Social Platform](https://github.com/Cecil-B-Liv/fsDev)
 A modern social media platform built with MERN stack
@@ -45,6 +46,7 @@ Implementation of AI steering behaviors for game development
 - Seek behavior with smooth movement physics
 - Vector mathematics and physics simulation
 - Real-time agent movement using Pygame
+- Has 2 projects game in this repository: Snake eating - Shooting game
 
 ### 🔧 [Raspberry Pi Bare Metal OS](https://github.com/Cecil-B-Liv/Embedded3-Group)
 Low-level operating system development for ARM64 architecture
@@ -53,13 +55,6 @@ Low-level operating system development for ARM64 architecture
 - QEMU emulation support for Raspberry Pi 3
 - Memory management and hardware interaction
 
-### 🔄 [.NET Core Web API](https://github.com/Cecil-B-Liv/Dotnet_API)
-RESTful user management API built with .NET Core
-- Complete CRUD operations for user management
-- Custom middleware for error handling and logging
-- Input validation and authentication
-- Modern C# features and patterns
-
 ## 🎯 Areas of Interest
 
 - **Systems Programming**: Low-level development, embedded systems, and operating systems
@@ -67,12 +62,6 @@ RESTful user management API built with .NET Core
 - **Full-Stack Development**: Modern web applications with scalable architectures
 - **Software Engineering**: Clean code practices, testing, and team collaboration
 - **API Development**: RESTful services and microservices architecture
-
-## 📊 GitHub Stats
-
-![Cecil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cecil-B-Liv&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cecil-B-Liv&layout=compact&theme=radical)
 
 ## 🤝 Let's Connect
 
